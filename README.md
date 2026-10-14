@@ -7,7 +7,7 @@
 从工程实践出发，持续探索前端基础设施、开发者工具与智能编程系统。
 
 [![GitHub](https://img.shields.io/badge/GitHub-yicheny-181717?logo=github)](https://github.com/yicheny)
-[![mo-code](https://img.shields.io/github/v/tag/wenxuezj-design/mo-code?sort=semver&label=mo--code)](https://github.com/wenxuezj-design/mo-code)
+[![mo-code](https://img.shields.io/github/v/tag/mortis-cube/mo-code?sort=semver&label=mo--code)](https://github.com/mortis-cube/mo-code)
 [![Profile views](https://komarev.com/ghpvc/?username=yicheny&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/yicheny)
 
 </div>
@@ -23,10 +23,10 @@
 
 | Project | Description | Focus |
 | --- | --- | --- |
-| [**mo-code**](https://github.com/wenxuezj-design/mo-code) | 从零实现的终端 Coding Agent，覆盖上下文构建、流式推理、工具执行、会话管理和安全权限闭环 | TypeScript · Node.js · Agent Architecture · Security |
+| [**mo-code**](https://github.com/mortis-cube/mo-code) | 从零实现的终端 Coding Agent，覆盖上下文构建、流式推理、工具执行、会话管理和安全权限闭环 | TypeScript · Node.js · Agent Architecture · Security |
 | [**YMicroNest**](https://github.com/yicheny/YMicroNest) | 面向多团队协作和渐进式迁移的微前端模板 | React · Module Federation · micro-app |
 | [**y-code-view**](https://github.com/yicheny/y-code-view) | 支持在浏览器中编写并实时预览 JavaScript、React 代码的组件方案 | React · Runtime · Developer Experience |
-| [**CompilerNest**](https://github.com/yicheny/CompilerNest) | 用于实践编译原理与编译工具链的实验项目 | TypeScript · Compiler |
+| [**YMetaLab**](https://github.com/yicheny/YMetaLab) | 前端组件与开发工具实验集合，包含 React 页面缓存、右键菜单和自定义 ESLint 规则等实现 | TypeScript · React · ESLint · Developer Tooling |
 
 ## Current Focus
 
